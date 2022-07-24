@@ -1,0 +1,9 @@
+
+:url-fdl: https://github.com/glevand/orgs-build-up/blob/master/fabricators-design-license.txt
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/glevand/bmw-frame-gussets
+
+:url-orgs-content: https://github.com/glevand/orgs-build-up/blob/master/content
+
+:imagesdir: content

@@ -1,0 +1,90 @@
+:url-fdl: https://github.com/glevand/orgs-build-up/blob/master/fabricators-design-license.txt
+
+:url-bmw-frame-gussets: https://www.advrider.com/f/threads/bmw-frame-gussets.638795/
+:url-frame-gussets-svg: https://github.com/glevand/bmw-frame-gussets
+
+:url-orgs-content: https://github.com/glevand/orgs-build-up/blob/master/content
+
+:imagesdir: content
+
+:linkattrs:
+
+:notitle:
+:nofooter:
+
+= ORGS Build Up - Page 13
+
+[big]*The ORGS Build Up Project*
+
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+
+[big]*Page 13*
+
+*x3300, July 23, 2022:*
+
+I was afraid that the glass lens of the big 8" Trail Tech headlight would get broken, so to protect it I bought some 1/16" thick clear polycarbonate sheet and cut out a disc the same size as the headlight's outer frame.  
+
+image::58-light-cover/bare-sm.jpg[link={imagesdir}/58-light-cover/bare.jpg,window=_blank]
+
+image::58-light-cover/circle-sm.jpg[link={imagesdir}/58-light-cover/circle.jpg,window=_blank]
+
+I drilled 6 holes in the plastic disc and attached it to the frame with tie wraps.  I doesn't really show in the photo, but that big piece of clear plastic just makes that big headlight look even bigger -- I think it looks really good.
+
+image::58-light-cover/done-sm.jpg[link={imagesdir}/58-light-cover/done.jpg,window=_blank]
+
+-x3300
+
+*Pokie, July 24, 2022:*
+
+The difficulty of having a screen or cover over the headlight is actually cleaning the headlight lens itself. If there was a way to hinge the cover so cleaning would be carried out without disturbing the cover itself, that would be great! I used to have a sports car rock shield on my ADV /2 that had a hinge on it but can't seem to find them anymore.
+
+*x3300, July 30, 2022:*
+
+Pokie, I usually just spray some water between the headlight cover and the lens to clean things up.  If I need to do some real cleaning I'll cut a few of the tie wraps to get a rag in there.  The idea of the thing is that there is a gap between the cover and the lens, and with the six tie wraps holding the cover tightly to the frame it would take a considerable force to get back to the lens and crack it.
+
+I needed to do a few things on the swingarm.  The swingarm normally vents through the transmission.  There is a small groove in the bore of the transmission output bearing that achieves this.  I filled that groove with sealer so if the bike fell over in a strange angle oil wouldn't flow though the groove, either from the swingarm to the transmission, or from the transmission to the swingarm.
+
+To make the swingarm vent I drilled a hole at the top of the swingarm and got this 90 degree plastic fitting and some clear hose from the hardware store.  
+
+image::59-arm-updates/vent-hole-sm.jpg[link={imagesdir}/59-arm-updates/vent-hole.jpg,window=_blank]
+
+I attached the vent tube with some J-B Weld epoxy and a tie wrap and once the swingarm was installed ran the tube up to the battery box and attached it there with another tie wrap.
+
+image::59-arm-updates/vent-sm.jpg[link={imagesdir}/59-arm-updates/vent.jpg,window=_blank]
+
+The brake cable runs on the outside of the swingarm, and it needed a guide so it would be less likely to get snagged by something on the trail or get hung up on the bolt of the lower shock mount.  I used some #10 (4.9mm) wire and made up this guide.
+
+image::59-arm-updates/cable-guide-sm.jpg[link={imagesdir}/59-arm-updates/cable-guide.jpg,window=_blank]
+
+Here's the finished look with it welded to the swingarm.  Its long enough to handle the whole travel of the suspension.
+
+image::59-arm-updates/guide-done-sm.jpg[link={imagesdir}/59-arm-updates/guide-done.jpg,window=_blank]
+
+-x3300
+
+*x3300, August ??, 2022:*
+
+As I mentioned in a previous post, my plan was to make a hole in the front fender to allow air to pass thorough it and into the oil cooler mounted behind.  I started with a 1" hole saw and made these four holes.
+
+image::60-fender-hole/fender-holes-sm.jpg[link={imagesdir}/60-fender-hole/fender-holes.jpg,window=_blank]
+
+Then, using a jigsaw with a fine tooth blade I made the cutout and cleaned up the edges with a file.
+
+image::60-fender-hole/fender-cutout-sm.jpg[link={imagesdir}/60-fender-hole/fender-cutout.jpg,window=_blank]
+
+Here's a view of the mounted fender with the oil cooler behind.  I used it for a while with just the bare hole, but as can be seen in the photo little pieces of stuff would get throne into the cooler and stuck there.
+
+image::60-fender-hole/fender-hole-sm.jpg[link={imagesdir}/60-fender-hole/fender-hole.jpg,window=_blank]
+
+I got some heavy grade galvanized steel roof gutter screening and riveted a piece of it to the inner side of the fender.  It can't be seen in this photo, but the screen is in place with four small washers.
+
+image::60-fender-hole/fender-finished-sm.jpg[link={imagesdir}/60-fender-hole/fender-finished.jpg,window=_blank]
+
+-x3300
+
+
+*_NOTICES_*
+
+Copyright 2010, 2011, 2022 x3300
+
+All ORGS design materials are relesed under the {url-fdl}[Fabricators Design License].
