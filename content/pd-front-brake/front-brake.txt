@@ -1,0 +1,78 @@
+This write up describes my experience trying to enhance the front brake of my 1993 R100GSPD.
+
+At first I looked at some aftermarket brake kits for the GS, but then decided a better solution was to fit a big disk from a bike that was easy to source.  I did some research in the aftermarket brake parts catalogs, looking at disks for Honda, Yamaha, etc.,  and found that the standard Ducati 'snowflake' disk had the dimensions that I though would work with a simple adapter.  I found there are many aftermarket parts available at a range of prices, but I chose the EBC model MD2003C as a kind of middle of the range part.  There are just a few sizes that fit all the Ducati models, and here is what I found out about that snowflake disk:
+
+[code]
+  1995 Ducati 916 SP
+  diameter    320
+  thickness   5.0
+  offset      9.65
+  bore        64.0
+  bolt circle 80.0
+  bolt dia    8.5
+  bolt count  6
+[/code]
+
+This is what I measured the GS to be:
+
+[code]
+  bore        62.0
+  bolt circle 79.0
+  bolt dia    10.0
+  bolt count  4
+[/code]
+
+I made a drawing, bought some aluminum stock and had a machine shop make the adapter.  The drawing and shop results can be seen in the photos.  I needed to drill two additional bolt holes in the disk, enlarge two of the existing bolt holes, and buy four longer disk mounting bolts.
+
+After getting the disk mounted on the wheel and the wheel back on the bike I setup the stock GS caliper on the disk at what I thought was a good position.  I then used some thick card stock to make a caliper adapter template and then transferred that to a piece of aluminum flat stock with a permanent marking pen.  Using just a hacksaw, file and hand drill, I could in short time have the adapter in the photos.  I later bought a late model four piston BMW caliper, and that took very little time to adapt, but I would say the stock GS caliper gave sufficient performance, and seemed to have less drag.  I've been thinking to re-try the old caliper again.
+
+The caliper should be somewhat centered on the disk, otherwise new pads may not fit on the narrow side.  I did my alignment by applying the brake to hold the caliper in position without the mounting bolts and then fitting some spacers of large nuts and washers of sufficient thickness so that they just slipped into position.  The spacers I used can be seen in the photo of the back of the caliper.
+
+At first I used the stock brake line with the stock caliper, but then I upgraded to a braided stainless line.  I noticed a stiffer brake lever, and in general what I thought was a better brake feel.  To make the line I bought some bulk Earl's Speed Flex -3 hose and the appropriate reusable hose ends.  I found the stuff easy enough to work with.  I bought some spare hose and olives so I can make future repairs.  I found the olives are not reusable.  I also carry a few olives in my tool kit when I go on tour, just in case.  The hose comes either with or without a plastic covering.  I read somewhere that dirt gets inside the braid of the uncoated hose and can cause premature wear, so I got the clear coated type.  I think it looks better than the bare.  I also put some heat-shrink tubing on the hose ends as seen in the photos to seal out grit.  Here is a link to the speed-flex catalog:
+
+  [url]http://www.holley.com/data/Catalogs/Brake%20Systems.pdf[/url]
+
+I found the Earl's on-line supplier Fluid Systems Engineering ([url]http://www.fluidsystemseng.com[/url]) and received very good service from them.  Here is what I bought:
+
+[code]
+  600031 speed-flex -3 clear coat bulk hose
+  600893 speed-seal -3 30 deg non-adjustable
+  600593 speed-seal -3 30 deg adjustable
+  699030 speed-seal -3 spare olives
+[/code]
+
+The photos show the finish brake line after some use.
+
+I now have about 30,000 miles on the big disk, and haven't had any real problems.  The disk center carrier is made of aluminum, and is easier to bend than the original BMW disk.  One time while in Mexico I had a tire patch installed and I noticed afterword that there was a lot of disk run-out.  He must have bent the carrier while working on the wheel.  I straightened it out by carefully hitting the center carrier with a few blocks of wood as I checked the run-out by how much drag there was.  When at home I have a dial indicator I sometimes use to check or adjust the run-out.  There are cheaper versions of the snowflake disk the have a steel center carrier, and I've thought that one of those might have been a good choice for its durability.
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/01-new-disk-package.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/01-new-disk-package-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/01-new-disk-package.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/02-disk-adapter-drawing.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/02-disk-adapter-drawing-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/02-disk-adapter-drawing.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/03-disk-adapter-inside.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/03-disk-adapter-inside-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/03-disk-adapter-inside.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/04-disk-adapter-outside.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/04-disk-adapter-outside-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/04-disk-adapter-outside.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/05-new-disk-mounted.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/05-new-disk-mounted-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/05-new-disk-mounted.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/06-side-view-disk.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/06-side-view-disk-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/06-side-view-disk.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/07-two-piston-adapter.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/07-two-piston-adapter-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/07-two-piston-adapter.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/08-two-piston-installed.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/08-two-piston-installed-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/08-two-piston-installed.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/09-four-piston-adapter.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/09-four-piston-adapter-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/09-four-piston-adapter.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/10-four-piston-adapter-fab.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/10-four-piston-adapter-fab-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/10-four-piston-adapter-fab.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/11-four-piston-adapter-installed.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/11-four-piston-adapter-installed-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/11-four-piston-adapter-installed.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/12-caliper-spacers.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/12-caliper-spacers-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/12-caliper-spacers.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/13-hose-parts.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/13-hose-parts-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/13-hose-parts.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/14-hose-end-upper.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/14-hose-end-upper-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/14-hose-end-upper.jpg"></a>
+
+<a href="http://stuff.gotdns.org/bike/pd-front-brake/15-hose-end-lower.jpg" target="_blank"><img src="http://stuff.gotdns.org/bike/pd-front-brake/15-hose-end-lower-sm.jpg" border="0" alt="http://stuff.gotdns.org/bike/pd-front-brake/15-hose-end-lower.jpg"></a>
+
+-x3300
