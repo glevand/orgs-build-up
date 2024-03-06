@@ -119,7 +119,7 @@ image::10-front-wheel/axle-with-spacers-sm.jpg[link={imagesdir}/10-front-wheel/a
 
 I had done a 320mm disk conversion on my PD earlier, so had a good idea of what I needed to get the disk mounted. You can read my write-up of the PD conversion here:
 
-http://www.advrider.com/forums/showpost.php?p=6638696&postcount=214
+<<pd-front-disc/pd-front-disc.adoc#,R100GSPD Front Disc Conversion>>
 
 The Ducati snowflake disk has an offset of 9.67mm, but an additional spacer is needed to get the disk far enough over so that the spokes won't hit the inside of the caliper. Also, it seems to me that if the disk is closer to the fork leg there will be less stress in the caliper mount.
 
