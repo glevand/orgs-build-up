@@ -157,8 +157,6 @@ This shows the caliper and inside relief, along with some of my fabrication note
 
 image::10-front-wheel/caliper-adapter-back-sm.jpg[link={imagesdir}/10-front-wheel/caliper-adapter-back.jpg,window=_blank]
 
-I plan at some time to make a proper mechanical drawing of the adapter for use by anyone interested.
-
 The three big holes on the side are to reduce weight and give a better appearance. I didn't plan on those at first, but once I got it machined and mounted up it looked like a big bulky hunk of metal sitting there so I added the holes. I think it looks a lot better, and is significantly lighter. The holes are not quite lined up because I positioned them in the center of the thickest parts to give maximum strength.
 
 This adapter ties together a Honda fork, a Ducati disk, and a BMW caliper...
@@ -168,6 +166,18 @@ image::10-front-wheel/caliper-adapter-mounted-sm.jpg[link={imagesdir}/10-front-w
 Here is a top view. The 2mm relief gap between the adapter and caliper is in the shadows of this photo, but looks narrow and gives a really good effect.
 
 image::10-front-wheel/caliper-adapter-top-sm.jpg[link={imagesdir}/10-front-wheel/caliper-adapter-top.jpg,window=_blank]
+
+Drawings of the front wheel parts:
+
+link:content/10-front-wheel/orgs-front-axle-spacers.dxf[orgs-front-axle-spacers.dxf]
+
+link:content/10-front-wheel/orgs-front-disc-spacer.dxf[orgs-front-disc-spacer.dxf]
+
+link:content/10-front-wheel/orgs-front-caliper-adapter.dxf[orgs-front-caliper-adapter.dxf]
+
+image::10-front-wheel/orgs-front-axle-spacers-dxf-sm.jpg[link={imagesdir}/10-front-wheel//orgs-front-axle-spacers-dxf.jpg,window=_blank]
+image::10-front-wheel/orgs-front-disc-spacer-dxf-sm.jpg[link={imagesdir}/10-front-wheel/orgs-front-disc-spacer-dxf.jpg,window=_blank]
+image::10-front-wheel/orgs-front-caliper-adapter-dxf-sm.jpg[link={imagesdir}/10-front-wheel/orgs-front-caliper-adapter-dxf.jpg,window=_blank]
 
 It was a lot of work to design and machine the parts, but I am very happy with the result. The axle spacers are stainless, which won't rust, and the caliper adapter has a really cool 'one-off' look to it.
 
