@@ -22,6 +22,14 @@ image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,win
 
 *x3300, Mar 6, 2010:*
 
+_Updates:_
+
+_The content from this thread is archived here:_ https://github.com/glevand/orgs-build-up/tree/master _If you want to see the hi-res photos they are in this archive._
+
+_The frame gusset vector graphics are archived here:_ https://github.com/glevand/bmw-frame-gussets
+
+_Also, there is an ADV Rider thread dedicated to frame gussets:_ https://www.advrider.com/f/threads/bmw-frame-gussets.638795/​
+
 Hi everyone,
 
 I have really enjoyed the stories of other airhead bike build up projects, so will be posting mine, the build up of ORGS my Off-Road GS here.
@@ -49,12 +57,6 @@ It took a lot of work to get those gussets cut out using a pneumatic cutoff tool
 image::01-orgs-build-up/cutting-gussets-sm.jpg[link={imagesdir}/01-orgs-build-up/cutting-gussets.jpg,window=_blank]
 
 I made a digital scan of the finished gussets and I'll make some vector graphic data from them which can then be used by anyone interested to program a CAD controled plasma cutter. What took me several days will be able to be done in a few minutes.
-
-Update:
-
-I put the frame gussets Scalable Vector Graphics files I have ready here: {url-frame-gussets-svg}[{url-frame-gussets-svg}]
-
-Also, I started a thread dedicated to frame gussets: {url-bmw-frame-gussets}[{url-bmw-frame-gussets}]
 
 -x3300
 
