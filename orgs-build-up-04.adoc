@@ -108,7 +108,7 @@ The powder coat oven I have access to is not big enough to fit a 21" front rim, 
 
 image::25-front-wheel-build/rim-cure-setup-sm.jpg[link={imagesdir}/25-front-wheel-build/rim-cure-setup.jpg,window=_blank]
 
-I found a discarded bead frame rail in a dumpster that I used for the stand. I just did a very quick fab job cutting the sections and welded them together. I laced four spokes into the wheel, just enough to support the rim as I turned it gently. The torches are propped in position by large c-clamps.
+I found a discarded bed frame rail in a dumpster that I used for the stand. I just did a very quick fab job cutting the sections and welded them together. I laced four spokes into the wheel, just enough to support the rim as I turned it gently. The torches are propped in position by large c-clamps.
 
 I needed to keep both torches at full to get the rim to come up to temperature. I think three torches would work better.
 
