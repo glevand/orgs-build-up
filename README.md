@@ -2,7 +2,7 @@
 
 Build up of the ORGS BMW R100GS motorcycle.
 
-![ORGS](content/orgs-right-side-view.jpg)
+[<img src="content/orgs-right-side-view.jpg">](content/orgs-right-side-view-lg.jpg)
 
 ## Content
 
