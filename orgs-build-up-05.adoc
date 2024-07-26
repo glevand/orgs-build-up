@@ -16,7 +16,7 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
 
 [big]*Page 5*
 
@@ -240,7 +240,7 @@ Is it possible to do this in a conventional lathe? There must be a fair amount o
 
 *x3300, Nov 13, 2010:*
 
-petekeys, this project is about realizing my vision, about creating the machine and executing my plan, and also of course about telling the story. Once I create something I really have little interest in doing it again for someone else, unless maybe if it allows me to be involved in some cool project or enterprise. I don't want to get into a discussion about it, but if someone wants to do such a service, all the photos, drawings, and documents from the project are my own and I am the sole copyright holder, but I release them to the public under the terms of the Fabricators Design License. The spirit of the license is to allow anyone to use the material for whatever use they want as long as any modifications or improments to the original design are made available to the public at no cost.
+petekeys, this project is about realizing my vision, about creating the machine and executing my plan, and also of course about telling the story. Once I create something I really have little interest in doing it again for someone else, unless maybe if it allows me to be involved in some cool project or enterprise. I don't want to get into a discussion about it, but if someone wants to do such a service, all the photos, drawings, and documents from the project are my own and I am the sole copyright holder, but I release them to the public under the terms of the Fabricators Design License. The spirit of the license is to allow anyone to use the material for whatever use they want as long as any modifications or improvements to the original design are made available to the public at no cost.
 
 As I mentioned in a previous post, the u-joint of the shaft I extended was going bad so I intended to replace it. I measured the OE joint as 19x44. Here's the joint in the original shaft.
 

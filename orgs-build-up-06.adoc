@@ -16,7 +16,7 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
 
 [big]*Page 6*
 
@@ -243,6 +243,8 @@ Here's what I measured it to be:
 Pretty close to 2.5" x 10", a common size of off-road racing truck coil-over springs. I've never seen any progressively wound truck springs though.
 
 To get the spring on the shock I needed to make a spring compressor. Here's an updated version of my ohlins spring plate drawing.
+
+link:content/34-rear-spring/ohlins-plate.dxf[ohlins-spring-compressor-plate.dxf]
 
 image::34-rear-spring/ohlins-plate-drawing-sm.jpg[link={imagesdir}/34-rear-spring/ohlins-plate-drawing.jpg,window=_blank]
 

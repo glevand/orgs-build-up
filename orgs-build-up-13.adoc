@@ -16,7 +16,7 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
 
 [big]*Page 13*
 
@@ -82,6 +82,9 @@ image::60-fender-hole/fender-finished-sm.jpg[link={imagesdir}/60-fender-hole/fen
 
 -x3300
 
+*PaulBarton, Aug 8, 2022*
+
+Much better with the screen. I got to the third pic and thought "now stuff will get stuck in the cooler fins" Then I kept reading....;-)
 
 *_NOTICES_*
 

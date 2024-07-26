@@ -16,7 +16,7 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
 
 [big]*Page 10*
 
@@ -404,7 +404,7 @@ I bottomed out on the back of the oil pan a few times coming down from big jumps
 
 image::53-hollister-hills/pan-sm.jpg[link={imagesdir}/53-hollister-hills/pan.jpg,window=_blank]
 
-I kept turning the gas off with my knee. I'll try a putting a left side petcock on the right.
+I kept turning the gas off with my knee. I'll try a putting a right side petcock on the left.
 
 image::53-hollister-hills/tap-sm.jpg[link={imagesdir}/53-hollister-hills/tap.jpg,window=_blank]
 
@@ -474,6 +474,10 @@ For the repair I made up this fixture. To get perfect alignment of the V-grooves
 
 image::54-shaft-saga/fixture-sm.jpg[link={imagesdir}/54-shaft-saga/fixture.jpg,window=_blank]
 
+I later made this updated fixture.
+
+image::54-shaft-saga/new-shaft-fixture-sm.jpg[link={imagesdir}/54-shaft-saga/new-shaft-fixture.jpg,window=_blank]
+
 Here's the shaft in the fixture. I ground the ends to make a V butt weld joint this time.
 
 image::54-shaft-saga/v-joint-sm.jpg[link={imagesdir}/54-shaft-saga/v-joint.jpg,window=_blank]
@@ -482,7 +486,7 @@ I did the weld, more carefully than usual, removed the excess, stress relieved t
 
 After coming back from my shake-down ride at Hollister Hills I noticed a clicking sound from inside the swing arm when I moved the bike around. On taking it apart I found one of the welds on the U-joint caps had broken and the cap was coming out of the yoke. I could also see scrape marks on the top inside of the swing arm where something was hitting.
 
-I don't think the torque through the joint was the cause, but more that the swing arm was going beyond its intended limit while bottoming and putting a large downward force on the yoke when the yoke and swing arm came into contact, and this force is what broke the weld and pushed the cap out. I had noticed before that the yoke clearance was very tight when the shock was fully compressed, and I now think there is deflection in the frame or other parts that is allowing the swing arm to more than expected in relationship to the transmission output flange.
+I don't think the torque through the joint was the cause, but more that the swing arm was going beyond its intended limit while bottoming and putting a large downward force on the yoke when the yoke and swing arm came into contact, and this force is what broke the weld and pushed the cap out. I had noticed before that the yoke clearance was very tight when the shock was fully compressed, and I now think there is deflection in the frame or other parts that is allowing the swing arm to move more than expected in relationship to the transmission output flange.
 
 I re-set the cap and put a new tack weld on it. While I had the shaft out I also decided to clean up the two extension welds. As can be seen on the far right of this view the weld is under cut is some places, and also has a few stray grind marks around it. I laid new weld beads over all the bad parts. To finish the shaft this time I did the stress relief, aligned it, then turned and polished the shaft on a lathe to get a smooth finish.
 

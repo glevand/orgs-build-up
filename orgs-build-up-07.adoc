@@ -16,7 +16,7 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
 
 [big]*Page 7*
 
