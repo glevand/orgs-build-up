@@ -16,19 +16,19 @@
 
 [big]*The ORGS Build Up Project*
 
-image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view.jpg,window=_blank]
+image::orgs-right-side-view-sm.jpg[link={imagesdir}/orgs-right-side-view-lg.jpg,window=_blank]
+
 
 [big]*Page 1*
 
 *x3300, Mar 6, 2010:*
 
+'''
 _Updates:_
-
 _The content from this thread is archived here:_ https://github.com/glevand/orgs-build-up/tree/master _If you want to see the hi-res photos they are in this archive._
-
 _The frame gusset vector graphics are archived here:_ https://github.com/glevand/bmw-frame-gussets
-
 _Also, there is an ADV Rider thread dedicated to frame gussets:_ https://www.advrider.com/f/threads/bmw-frame-gussets.638795/​
+'''
 
 Hi everyone,
 
