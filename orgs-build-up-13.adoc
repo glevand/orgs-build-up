@@ -86,6 +86,26 @@ image::60-fender-hole/fender-finished-sm.jpg[link={imagesdir}/60-fender-hole/fen
 
 Much better with the screen. I got to the third pic and thought "now stuff will get stuck in the cooler fins" Then I kept reading....;-)
 
+*x3300, August 1, 2024:*
+
+As I had mentioned in a previous post, the under side of the dash is really too tight and that makes hard to work on. Also, I thought the front piece that sticks up was a little too tall. I decided to make a new dash to fix these problems. My idea was to make the top of the dash held on by four screws which can be removed to access the under side of the dash.
+
+Here's the side drawing I made to work with.
+
+image::61-new-dash/dash-drawing-sm.jpg[link={imagesdir}/61-new-dash/dash-drawing.jpg,window=_blank]
+
+And welding the pieces to make the base.
+
+image::61-new-dash/welding-sm.jpg[link={imagesdir}/61-new-dash/welding.jpg,window=_blank]
+
+For the top plate I just cut the top plate off the old dash and cleaned up the edges with a file.  To get the four screw mounts aligned for welding I drilled and tapped each of the mounts, and drilled the four holes in the top plate, then screwed the mounts to the top plate. Then using some clamps I put the top plate in it's final position, and made a tack weld on each mount to fix it to the base.
+
+This shows the four screw mounts welded in.
+
+image::61-new-dash/new-dash-sm.jpg[link={imagesdir}/61-new-dash/new-dash.jpg,window=_blank]
+
+-x3300
+
 *_NOTICES_*
 
 Copyright 2010, 2011, 2022 x3300
