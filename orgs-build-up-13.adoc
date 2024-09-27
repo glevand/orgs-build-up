@@ -46,7 +46,7 @@ The difficulty of having a screen or cover over the headlight is actually cleani
 
 Pokie, I usually just spray some water between the headlight cover and the lens to clean things up.  If I need to do some real cleaning I'll cut a few of the tie wraps to get a rag in there.  The idea of the thing is that there is a gap between the cover and the lens, and with the six tie wraps holding the cover tightly to the frame it would take a considerable force to get back to the lens and crack it.
 
-I needed to do a few things on the swingarm.  The swingarm normally vents through the transmission.  There is a small groove in the bore of the transmission output bearing that achieves this.  I filled that groove with sealer so if the bike fell over in a strange angle oil wouldn't flow though the groove, either from the swingarm to the transmission, or from the transmission to the swingarm.
+I needed to do a few things on the swingarm.  The swingarm normally vents through the transmission.  There is a small groove in the transmission output shaft that achieves this.  I filled that groove with sealer so if the bike fell over in a strange angle oil wouldn't flow though the groove, either from the swingarm to the transmission, or from the transmission to the swingarm.
 
 To make the swingarm vent I drilled a hole at the top of the swingarm and got this 90 degree plastic fitting and some clear hose from the hardware store.  
 
