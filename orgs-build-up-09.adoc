@@ -218,7 +218,7 @@ I'm proud of myself after changing my own brake pads. I might even brag to my gi
 
 The exhaust system is one of the things that really makes a bike's character, and I figured I'd like to have one that was distinctive. I'd need something that would work with my repositioned foot pegs and custom sub-frame. The idea of custom stainless sounded cool, but I was a bit unsure if I could make that happen; two tubes snaking around the bike, close to the frame, fitting into the head, no leaks, ground clearance, coming together, welded stainless, what to buy.
 
-The info I found on exhaust system design was mainly for cars. Some of it was useful, but some was clearly incorrect. A good one on welding is here at Burns Stainless.
+The info I found on exhaust system design was mainly for cars. Some of it was useful, but some was clearly incorrect. A good one on welding is here at Burns Stainless; http://www.burnsstainless.com/weldingarticle1.aspx.
 
 For my use I want good low and mid-range power so I decided to make some long primary tubes close to the 38 mm outside diameter of the stock GS. I studied the catalog at Columbia River Mandrel Bending and found a selection of 1.5" OD 16 gage 304 stainless bends. 1.5" equals 38.1 mm, and I though I could do something to get that to fit into the 38 mm exhaust port. To get an idea of what would work I made up some paper patterns. This one is based on a 2.25" radius 180 degree bend mated to a 3.0" radius 45 degree.
 
