@@ -216,7 +216,7 @@ To start with the mods I put the harness in position and installed the various c
 
 image::20-main-harness/installed-sm.jpg[link={imagesdir}/20-main-harness/installed.jpg,window=_blank]
 
-I choose to use 3M Scotch Super 33+ and Super 88 vinyl tape for the rebuild. The 33+ is a little thinner and good for binding and prep work. I used the thicker 88 for the final wrap layer.
+I chose to use 3M Scotch Super 33+ and Super 88 vinyl tape for the rebuild. The 33+ is a little thinner and good for binding and prep work. I used the thicker 88 for the final wrap layer.
 
 I've used these tapes before for harness rebuilds and was satisfied with the result. The finished look is different than the original GS fabric tape, but I think it gives an acceptable look.
 

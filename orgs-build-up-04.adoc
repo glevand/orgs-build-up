@@ -395,7 +395,7 @@ Here's a view of the section.
 
 image::29-monolever-extension/section-view-sm.jpg[link={imagesdir}/29-monolever-extension/section-view.jpg,window=_blank]
 
-The 2"x1/16" tube I mentioned in the previous post was intended for the cross brace. I bolted the back end of the arm at the 125mm index of the fixture then measured the angles the cross brace would need. I set the brace to give the maximum support and have just enough clearance to fit an 18" wheel.
+The 2"x1/16" tube I mentioned in the previous post was intended for the cross brace. I bolted the back end of the arm at the 125mm index of the fixture then measured the angles the cross brace would need. I set the brace to give the maximum support and have just enough clearance to fit a 17" wheel.
 
 I used this hole saw and a vertical mill to cut the tube ends. I set the head at the needed angle then made the cut.
 
